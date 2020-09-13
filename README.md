@@ -11,19 +11,18 @@
 
 
 ```javascript
-const thai = {
+const UserInformation = {
  pronouns: "He" | "Him",
     askMeAbout: ["app dev", "web dev", "tech"],
     technologies:{
-        backEnd: ["nodejs", "express", "python"],
-        fronEnd: ["angular"],
-        mobileApp: ["ionic","angular"],
+        fronEnd: ["reactjs","react-native","html","css","jquery"],
+        backEnd: ["nodejs", "express"],
         database: ["mongo","mySql"],
-        serverless: ["mongo-realm","aws-lambda"],
-        devOps: ["AWS", "Nginx", "Jenkins"],
-        misc: ["Firebase", "Socket.IO"]
+        server: ["mongo","firebase"],
+        uiFramework: ["Material-ui", "react-native-elements", "react-native-paper",""ant-deign"],
+        others:["Photoshop", "Premiere", "After-effect","Illustraion","camtasia"]
     },
-    architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
+    architecture: ["React native app", "Single page applications", "Server"],
 }
 ```
 
