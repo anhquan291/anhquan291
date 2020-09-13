@@ -19,10 +19,11 @@ const UserInformation = {
         backEnd: ["nodejs", "express"],
         database: ["mongo","mySql"],
         server: ["mongo","firebase"],
-        uiFramework: ["Material-ui", "react-native-elements", "react-native-paper",""ant-deign"],
+        uiFramework: ["material-ui","bootstrap", "react-native-elements", "react-native-paper",""ant-deign"],
         others:["Photoshop", "Premiere", "After-effect","Illustraion","camtasia"]
     },
-    architecture: ["React native app", "Single page applications", "Server"],
+    architecture: ["React native app", "Single page applications","Landing web page", "Server"],
+    interests: ["music", "football", "travel", "english", "movie"]
 }
 ```
 
