@@ -1,7 +1,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 🙏, I'm Quan Nguyen.  
-## Web/App Developer 👨‍💻
+## React Native Developer 👨‍💻
 
 [![](https://img.shields.io/badge/Facebook-AnhQuanNguyen-blue)](https://www.facebook.com/anhquan291/)
 [![](https://img.shields.io/badge/Gmail-anhquan291%40gmail.com-red)](mailto:anhquan291@gmail.com)
@@ -15,11 +15,11 @@ const UserInformation = {
  pronouns: "He" | "Him",
     askMeAbout: ["app dev", "web dev", "tech"],
     technologies:{
-        fronEnd: ["reactjs","react-native","html","css","jquery"],
-        backEnd: ["nodejs", "express"],
+        fronEnd: ["react-native","reactjs","firebase"],
+        backEnd: ["nodejs", "express","socketIO"],
         database: ["mongo","mySql"],
         server: ["mongo","firebase"],
-        uiFramework: ["material-ui","bootstrap", "react-native-elements", "react-native-paper",""ant-deign"],
+        uiFramework: ["react-native-elements", "react-native-paper", "material-ui","ant-deign","bootstrap".],
         others:["Photoshop", "Premiere", "After-effect","Illustraion","camtasia"]
     },
     architecture: ["React native app", "Single page applications","Landing web page", "Server"],
