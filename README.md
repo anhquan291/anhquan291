@@ -13,17 +13,14 @@
 ```javascript
 const UserInformation = {
  pronouns: "He" | "Him",
-    askMeAbout: ["app dev", "web dev", "tech"],
+    askMeAbout: ["app developer"],
     technologies:{
-        fronEnd: ["react-native","reactjs","firebase"],
+        fronEnd: ["react-native","reactjs"],
         backEnd: ["nodejs", "express","socketIO"],
         database: ["mongo","mySql"],
-        server: ["mongo","firebase"],
-        uiFramework: ["react-native-elements", "react-native-paper", "material-ui","ant-deign","bootstrap".],
-        others:["Photoshop", "Premiere", "After-effect","Illustraion","camtasia"]
+        others:["Photoshop", "Premiere", "After-effect","Illustraion"]
     },
-    architecture: ["React native app", "Single page applications","Landing web page", "Server"],
-    interests: ["music", "football", "travel", "english", "movie"]
+    interests: ["music", "football", "travel", "movie"]
 }
 ```
 
