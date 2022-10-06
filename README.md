@@ -15,9 +15,9 @@ const UserInformation = {
  pronouns: "He" | "Him",
     askMeAbout: ["app developer"],
     technologies:{
-        fronEnd: ["react-native","reactjs"],
-        backEnd: ["nodejs", "express","socketIO"],
-        database: ["mongo","mySql"],
+        fronend: ["react-native","reactjs"],
+        backend: ["nodejs", "express","socketIO"],
+        database: ["mongo","mysql"],
         others:["Photoshop", "Premiere", "After-effect","Illustraion"]
     },
     interests: ["music", "football", "travel", "movie"]
