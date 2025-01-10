@@ -9,7 +9,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-👷 Currently I'm building Binshoot✨ with RN (comming soon on PlayStore, inpired from [Binsoo✨](https://apps.apple.com/vn/app/binsoo-photo-filters-editor/id6502683720)), [Mastermind Board Game](https://en.wikipedia.org/wiki/Mastermind_(board_game))
+👷 Currently I'm building **Binshoot**✨ with RN (comming soon on PlayStore, inpired from [Binsoo✨](https://apps.apple.com/vn/app/binsoo-photo-filters-editor/id6502683720)), [Mastermind Board Game](https://en.wikipedia.org/wiki/Mastermind_(board_game))
 
 ```javascript
 const UserInformation = {
