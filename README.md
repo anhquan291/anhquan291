@@ -15,7 +15,7 @@
 
 </div>
 
-I turn ambitious ideas into polished mobile experiences—from the first interaction to the tiny motion details that make an app feel alive. My home turf is **React Native**, and I also build deeply native experiences with **SwiftUI**.
+I turn ambitious ideas into polished mobile experiences—from the first interaction to the tiny motion details that make an app feel alive. My home turf is **React Native**.
 
 I care about expressive interfaces, clean architecture, delightful animation, and products people actually want to keep on their phones.
 
